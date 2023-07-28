@@ -2,7 +2,7 @@
 
 ## About Me:
 - 📚 I am an aspiring web developer with a growing interest in React and Django.
-- 👩‍💻 Currently working on two projects: Irisia's Keep and Floriana. Which are practice projects to polish my back-end development skills
+- 👩‍💻 Currently working on two projects: Irisia's Keep and Floriana. Practice projects to polish my back-end development skills
 - ✨ Favorite Things: 📖 🖋 🍕 🌹
 
 ## My Tech Stack (Languages, Tools, Database and Frameworks):
