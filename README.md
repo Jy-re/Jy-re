@@ -2,8 +2,8 @@
 
 ## About Me:
 - 📚 I am an aspiring web developer with a growing interest in React and Django.
-- 👩‍💻 Currently working on three projects: Irisia's Keep, Floriana, and an Inventory and Monitoring System for Laboratories.
-- ✨ Favorite Things: 📖 🖋 🍕 🌹
+- 👩‍💻 Currently working on three main projects: Irisia's Keep, Floriana, and an Inventory and Monitoring System for Laboratories.
+- ✨ Favorite Things: 📖 🖋 🍕 🌹 🌙
 
 ## My Tech Stack (Languages, Tools, Database and Frameworks):
 > <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="80" height="80">
@@ -15,6 +15,7 @@
 > <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="80" height="80">
 > <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" width="80" height="80">
 > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width="80" height="80">
+> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" width="80" heaight="80">
 
 ## Github Stats:
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Jy-re&count_private=true&theme=tokyonight&showicons=true)]()
