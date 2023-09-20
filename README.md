@@ -9,7 +9,7 @@
 > <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="60" height="60">
 > <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="60" height="60">
 > <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" width="60" height="60">
-> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png](https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png" width="60" height="60">
+> <img src="https://files.raycast.com/sjxs3pxsc6k63ju0fzv8l3cu4v90" width="60" height="60">
 > <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png" width="60" height="60">
 > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="60" height="60">
 > <img src="https://www.svgrepo.com/download/376337/node-js.svg" width="60" height="60">
