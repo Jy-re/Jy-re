@@ -18,5 +18,5 @@
 > <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" width="60" height="60">
 
 ## Github Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=Jy-re&show_icons=true&count_private=true&hide=issues&include_all_commits=true&line_height=24&theme=cobalt" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jy-re&show_icons=true&count_private=true&hide=issues&include_all_commits=true&line_height=24&theme=tokyonight" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jy-re&layout=compact&theme=tokyonight" alt="Top Languages" />
