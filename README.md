@@ -16,7 +16,7 @@
 > <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" width="60" height="60">
 > <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" width="60" height="60">
 > <img src= "https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" width="60" height="60">
-> <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1200px-Godot_icon.svg.png" width="60" height="60">
+
 
 ## Github Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=Jy-re&show_icons=true&count_private=true&hide=issues&include_all_commits=true&line_height=24&theme=tokyonight" alt="GitHub Stats" />
