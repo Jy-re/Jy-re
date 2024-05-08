@@ -20,6 +20,8 @@
 > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1702px-Svelte_Logo.svg.png" width="60" height="60">
 > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="60" height="60">
 > <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" width="60" height="60">
+> <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" width="60" height="60">
+> <img src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png" width="60" height="60">
 
 
 ## Github Stats:
