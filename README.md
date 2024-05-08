@@ -17,6 +17,9 @@
 > <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" width="60" height="60">
 > <img src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" width="60" height="60">
 > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/2048px-Flutter_logo.svg.png" width="60" height="60">
+> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1702px-Svelte_Logo.svg.png" width="60" height="60">
+> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="60" height="60">
+> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" width="60" height="60">
 
 
 ## Github Stats:
